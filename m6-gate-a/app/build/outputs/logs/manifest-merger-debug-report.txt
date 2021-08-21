@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\d4f80b47965d40548d54c7a796239224\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\93e593b97d7d6ddade6692161faf5d20\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\59791bfc5e2812af8a8b5451badf0109\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\f2fab4573eba5b4184d89e9005a9eca1\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\6665f180fd1b4e6eec84b498bd3f9bee\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\80cf89224333aa5260c1e1811923d99a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\5de4a39d4f6d50a8112e02be34a47021\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\24c04c5df6d4c57e096bca80b4da286c\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\73bf9a599ff21ff2325b6373b493c200\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\1239ba4f11b8badc2e08189e1230cf2c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\4c45a2a9c54130e844cdf14d1d2c4be1\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\2644a89935da8c4cf5eff6917edb2334\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\69ced6e857678ee39ec08842dd269da8\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\3e05d7b504a2e55834c3b9b5e0d4f1f3\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\da74395aa323f40404b66b0c3e172f27\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\201959a4a15487d3e63be7976a2668f7\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\6e73f98e624e1b98a9f6ff32c106cc1f\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\f47569fc33a16b43a055638c9faf4db7\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\ced96d44db3e81dec49b48848754ee60\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\164256d3f2dc2f2a79350c345f809000\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\950f4d43bc577caf536ed2e4c3d0cd62\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\4cc4645e1803f774e99e65e35dffe55c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\0b9884a743898f9c9b3e6c21c80c3127\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\2c4fe01203c62525ebe5caaf4ee4d51e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\2716bcc868cc78f40cba90e6e03270cf\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\f27c44a9882d937f635be18183d6bfbf\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\0f4abfc2a5465896699623c1c3b331d7\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\d4f80b47965d40548d54c7a796239224\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\d4f80b47965d40548d54c7a796239224\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\59791bfc5e2812af8a8b5451badf0109\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\59791bfc5e2812af8a8b5451badf0109\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\6e73f98e624e1b98a9f6ff32c106cc1f\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\6e73f98e624e1b98a9f6ff32c106cc1f\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\164256d3f2dc2f2a79350c345f809000\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\164256d3f2dc2f2a79350c345f809000\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\6e73f98e624e1b98a9f6ff32c106cc1f\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:10:9-40
+activity#mooc.vandy.java4android.gate.ui.MainActivity
+ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:11:19-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\d4f80b47965d40548d54c7a796239224\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\d4f80b47965d40548d54c7a796239224\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\93e593b97d7d6ddade6692161faf5d20\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\93e593b97d7d6ddade6692161faf5d20\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\59791bfc5e2812af8a8b5451badf0109\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\59791bfc5e2812af8a8b5451badf0109\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\f2fab4573eba5b4184d89e9005a9eca1\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\f2fab4573eba5b4184d89e9005a9eca1\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\6665f180fd1b4e6eec84b498bd3f9bee\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\6665f180fd1b4e6eec84b498bd3f9bee\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\80cf89224333aa5260c1e1811923d99a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\80cf89224333aa5260c1e1811923d99a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\5de4a39d4f6d50a8112e02be34a47021\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\5de4a39d4f6d50a8112e02be34a47021\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\24c04c5df6d4c57e096bca80b4da286c\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\24c04c5df6d4c57e096bca80b4da286c\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\73bf9a599ff21ff2325b6373b493c200\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\73bf9a599ff21ff2325b6373b493c200\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\1239ba4f11b8badc2e08189e1230cf2c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\1239ba4f11b8badc2e08189e1230cf2c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\4c45a2a9c54130e844cdf14d1d2c4be1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\4c45a2a9c54130e844cdf14d1d2c4be1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\2644a89935da8c4cf5eff6917edb2334\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\2644a89935da8c4cf5eff6917edb2334\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\69ced6e857678ee39ec08842dd269da8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\69ced6e857678ee39ec08842dd269da8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\3e05d7b504a2e55834c3b9b5e0d4f1f3\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\3e05d7b504a2e55834c3b9b5e0d4f1f3\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\da74395aa323f40404b66b0c3e172f27\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\da74395aa323f40404b66b0c3e172f27\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\201959a4a15487d3e63be7976a2668f7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\201959a4a15487d3e63be7976a2668f7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\6e73f98e624e1b98a9f6ff32c106cc1f\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\6e73f98e624e1b98a9f6ff32c106cc1f\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\f47569fc33a16b43a055638c9faf4db7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\f47569fc33a16b43a055638c9faf4db7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\ced96d44db3e81dec49b48848754ee60\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\ced96d44db3e81dec49b48848754ee60\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\164256d3f2dc2f2a79350c345f809000\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\164256d3f2dc2f2a79350c345f809000\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\950f4d43bc577caf536ed2e4c3d0cd62\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\950f4d43bc577caf536ed2e4c3d0cd62\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\4cc4645e1803f774e99e65e35dffe55c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\4cc4645e1803f774e99e65e35dffe55c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\0b9884a743898f9c9b3e6c21c80c3127\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\0b9884a743898f9c9b3e6c21c80c3127\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\2c4fe01203c62525ebe5caaf4ee4d51e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\2c4fe01203c62525ebe5caaf4ee4d51e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\2716bcc868cc78f40cba90e6e03270cf\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\2716bcc868cc78f40cba90e6e03270cf\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\f27c44a9882d937f635be18183d6bfbf\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\f27c44a9882d937f635be18183d6bfbf\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\0f4abfc2a5465896699623c1c3b331d7\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\YUDHVIR\.gradle\caches\transforms-2\files-2.1\0f4abfc2a5465896699623c1c3b331d7\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YUDHVIR\Desktop\android\m6-gate-a\app\src\main\AndroidManifest.xml

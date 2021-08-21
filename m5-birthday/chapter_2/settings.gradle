@@ -1,0 +1,3 @@
+rootProject.name = "javaRefersher"
+include ':app'
+include ':chap2'
